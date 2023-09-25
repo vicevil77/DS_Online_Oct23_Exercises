@@ -50,6 +50,6 @@ cd Documents/GitHub
 2. Abrir Git Bash en ese directorio.
 3. Clonar el repositorio
 `
-git clone https://github.com/Jaimegrp/DS_Online_Oct23.git
+git clone https://github.com/Jaimegrp/DS_Online_Oct23_Exercises.git
 `
 4. Hacer `git pull` para actualizar.
